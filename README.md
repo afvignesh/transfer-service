@@ -14,7 +14,7 @@ This service allows creation of user accounts and supports internal balance tran
 - ✅ **ACID Transactions**: Database-level locking with `SELECT FOR UPDATE`
 - ✅ **RESTful API**: Clean HTTP endpoints for account and transfer operations
 - ✅ **Comprehensive Logging**: Structured logging with Zap
-- ✅ **Docker Ready**: Easy setup with Docker Compose
+- ✅ **Docker Ready**: Easy setup DB with Docker Compose
 - ✅ **Test Coverage**: Unit and integration tests included
 
 ## 🏗️ Architecture
