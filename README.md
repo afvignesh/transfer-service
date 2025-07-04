@@ -60,7 +60,7 @@ transfer-service/
 
 1. **Clone and navigate to the project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/afvignesh/transfer-service
    cd transfer-service
    ```
 
